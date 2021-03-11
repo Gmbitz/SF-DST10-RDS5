@@ -31,4 +31,5 @@ MAPE - Расшифровывается выражение как средний
 - Ŷ_t — значение прогнозной модели за анализируемый период;
 - n — количество периодов.
 
-[Ссылка](https://www.kaggle.com/c/sf-dst-car-price-prediction) на соревнование
+[Ссылка](https://www.kaggle.com/c/sf-dst-car-price-prediction) на соревнование с тестовым датасетом
+[Ссылка](https://www.kaggle.com/gmbitz/all-auto-ru-09-09-2020) на тренировочный датасет
