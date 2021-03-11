@@ -32,4 +32,5 @@ MAPE - Расшифровывается выражение как средний
 - n — количество периодов.
 
 [Ссылка](https://www.kaggle.com/c/sf-dst-car-price-prediction) на соревнование с тестовым датасетом
+
 [Ссылка](https://www.kaggle.com/gmbitz/all-auto-ru-09-09-2020) на тренировочный датасет
